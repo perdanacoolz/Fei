@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\controllers\\receiptvouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\receiptvouchercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\controllers\\officialreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\officialreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\repositories\\iexchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\iexchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|c:\\users\\perdana\\desktop\\fei\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceiptVoucherController.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ReceiptVoucherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReceiptVoucherController.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ReceiptVoucherController.cs",
+              "RelativeToolTip": "Controllers\\ReceiptVoucherController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:42:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:04:51.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateController.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ExchangeRateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExchangeRateController.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ExchangeRateController.cs",
+              "RelativeToolTip": "Controllers\\ExchangeRateController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ExchangeRateRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ExchangeRateRepository.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ExchangeRateRepository.cs",
+              "RelativeToolTip": "Repositories\\ExchangeRateRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAuwEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T02:40:49.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfficialReceiptController.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\OfficialReceiptController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OfficialReceiptController.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\OfficialReceiptController.cs",
+              "RelativeToolTip": "Controllers\\OfficialReceiptController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExchangeRateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IExchangeRateRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IExchangeRateRepository.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IExchangeRateRepository.cs",
+              "RelativeToolTip": "Repositories\\IExchangeRateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAWwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Infoss.Finance.Product.Request.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Infoss.Finance.Bank.Response.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\perdana\\Desktop\\fei\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|f:\\apibaru\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\repositories\\iexchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\iexchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\exchangeraterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\controllers\\officialreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\officialreceiptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|f:\\apibaru\\infoss.master.exchangerateservice\\infoss.master.exchangerateservice\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:sql.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEDF6F9-A9BF-4B25-9CAE-A9B3E7032D77}|..\\Infoss.Finance.BankModel\\Infoss.Finance.ProductModel.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\infoss.finance.bankmodel\\infoss.finance.product.request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DEDF6F9-A9BF-4B25-9CAE-A9B3E7032D77}|..\\Infoss.Finance.BankModel\\Infoss.Finance.ProductModel.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\infoss.finance.bankmodel\\infoss.finance.bank.response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C8B53A-8056-4A2F-A9E8-D165180AA6B3}|Infoss.Master.ExchangeRateService.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T03:04:51.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateController.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ExchangeRateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExchangeRateController.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ExchangeRateController.cs",
+              "RelativeToolTip": "Controllers\\ExchangeRateController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAxwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExchangeRateRepository.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ExchangeRateRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ExchangeRateRepository.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ExchangeRateRepository.cs",
+              "RelativeToolTip": "Repositories\\ExchangeRateRepository.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAQwEwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T02:40:49.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfficialReceiptController.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\OfficialReceiptController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OfficialReceiptController.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\OfficialReceiptController.cs",
+              "RelativeToolTip": "Controllers\\OfficialReceiptController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExchangeRateRepository.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IExchangeRateRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IExchangeRateRepository.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IExchangeRateRepository.cs",
+              "RelativeToolTip": "Repositories\\IExchangeRateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:46.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sql.sql ",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\sql.sql",
+              "RelativeDocumentMoniker": "sql.sql",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\sql.sql",
+              "RelativeToolTip": "sql.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000853|",
+              "WhenOpened": "2024-03-19T02:40:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAWwEIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Infoss.Finance.Product.Request.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "RelativeDocumentMoniker": "..\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "RelativeToolTip": "..\\Infoss.Finance.BankModel\\Infoss.Finance.Product.Request.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Infoss.Finance.Bank.Response.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "RelativeDocumentMoniker": "..\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "RelativeToolTip": "..\\Infoss.Finance.BankModel\\Infoss.Finance.Bank.Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "F:\\apibaru\\Infoss.Master.ExchangeRateService\\Infoss.Master.ExchangeRateService\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T02:40:49.323Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

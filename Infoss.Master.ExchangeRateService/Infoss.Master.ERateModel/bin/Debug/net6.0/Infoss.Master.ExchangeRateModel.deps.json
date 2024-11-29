@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Infoss.Master.ExchangeRateModel/1.0.0": {
+        "runtime": {
+          "Infoss.Master.ExchangeRateModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Infoss.Master.ExchangeRateModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
